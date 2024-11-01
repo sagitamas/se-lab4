@@ -1,0 +1,3 @@
+GT4500,10,0,10,0 #initialize
+TORPEDO,SINGLE  # primary fire
+TORPEDO,SINGLE  # secondary fire

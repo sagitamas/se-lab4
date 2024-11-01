@@ -1,0 +1,2 @@
+GT4500,0,0,10,0  # init, first is empty
+TORPEDO,SINGLE   # firing one shot

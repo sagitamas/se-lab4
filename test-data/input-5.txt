@@ -1,0 +1,2 @@
+GT4500,0,0,0,0  #empty storages
+TORPEDO,ALL  # fire all

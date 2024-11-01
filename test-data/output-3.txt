@@ -1,0 +1,2 @@
+SUCCESS  #init
+SUCCESS  #second was fired

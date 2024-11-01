@@ -1,0 +1,2 @@
+SUCCESS  # init
+FAIL  # no fire
