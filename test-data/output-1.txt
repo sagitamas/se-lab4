@@ -1,0 +1,2 @@
+SUCCESS  #initialize
+SUCCESS  #succesful fire

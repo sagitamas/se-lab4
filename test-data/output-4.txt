@@ -1,0 +1,2 @@
+SUCCESS  #init
+SUCCESS  # Mindkét tároló sikeresen tüzel
